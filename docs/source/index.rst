@@ -8,9 +8,11 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-
+   intro
+   导航
+   快速1
+   GMM
 
 Indices and tables
 ==================
